@@ -1,0 +1,2 @@
+# Text-dependent-speaker-verification-using-CNN-s
+Voice-based identity verification has become a tool of growing interest in various security applications such as access control and personalised services. It is in this context that this project is framed, focusing on the development of an automatic system for verifying the identity of speakers using accelerated Convolutional Neural Networks (CNNs)
